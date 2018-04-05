@@ -8,4 +8,6 @@
 ### 样例    
 
 * chandone[用函数式封装](https://github.com/Clodfisher/learngo/tree/master/chandone)    
-  用函数式对sync.WaitGroup进行封装，实现对多个chan的等待。
+  用函数式对sync.WaitGroup进行封装，实现对多个chan的等待。    
+* selecttime[select 定时器](https://github.com/Clodfisher/learngo/tree/master/selecttime)    
+  此函数主要用于测试select，定时器的使用情况。    
