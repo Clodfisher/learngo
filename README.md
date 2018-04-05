@@ -7,5 +7,5 @@
 
 ### 样例    
 
-* chandone[用函数式封装](www)    
+* chandone[用函数式封装](https://github.com/Clodfisher/learngo/tree/master/chandone)    
   用函数式对sync.WaitGroup进行封装，实现对多个chan的等待。
