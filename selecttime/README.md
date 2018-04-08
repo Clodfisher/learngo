@@ -8,7 +8,7 @@
 
 此样例涉及到的知识点如下所示：    
 
-* select + default 可以构成一个非阻塞式的管道。     
+* select 是阻塞的，select + default 可以构成一个非阻塞式的管道。     
 * select 中每次只能执行一个case，当有多个case可以执行时，随机一个进行执行。    
 * 对于为nil的chan，在select中可以正常运行，但是无法select到，无法获取到数据。  
 * 定时器的三种常见使用。      
