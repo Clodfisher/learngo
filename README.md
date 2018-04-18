@@ -10,4 +10,8 @@
 * chandone[用函数式封装](https://github.com/Clodfisher/learngo/tree/master/chandone)    
   用函数式对sync.WaitGroup进行封装，实现对多个chan的等待。    
 * selecttime[select 定时器](https://github.com/Clodfisher/learngo/tree/master/selecttime)    
-  此函数主要用于测试select，定时器的使用情况。    
+  此函数主要用于测试select，定时器的使用情况。     
+* rpcregister[rpc注册用户](https://github.com/Clodfisher/learngo/tree/master/rpcregister)    
+  此练习主要用于测试通过rpc进行用户名密码注册服务的请求。        
+* regexcom[用正则表达式取email](https://github.com/Clodfisher/learngo/tree/master/regexcom)    
+  此函数主要用于用于正则表达式的库的使用。       
